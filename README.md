@@ -2,7 +2,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @NamDuong2
 - 👀 I’m interested in reading books, investing crypto as well as exploring new or hype technologies like Metaverse, Web3, Blockchain, Data Science,...
-- 🌱 I'm currently learning Data Science, Blockchain, Finance & Economics, AI, Machine Learning, Statistics etc.
+- 🌱 I'm currently learning Data Engineer, Blockchain, AI, Machine Learning, Statistics etc.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NamDuonq) 
